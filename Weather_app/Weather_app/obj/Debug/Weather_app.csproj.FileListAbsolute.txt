@@ -1,0 +1,10 @@
+C:\Proiect18\Weather_app\Weather_app\bin\Debug\Weather_app.exe.config
+C:\Proiect18\Weather_app\Weather_app\bin\Debug\Weather_app.exe
+C:\Proiect18\Weather_app\Weather_app\bin\Debug\Weather_app.pdb
+C:\Proiect18\Weather_app\Weather_app\obj\Debug\Weather_app.csprojResolveAssemblyReference.cache
+C:\Proiect18\Weather_app\Weather_app\obj\Debug\Weather_app.Properties.Resources.resources
+C:\Proiect18\Weather_app\Weather_app\obj\Debug\Weather_app.csproj.GenerateResource.Cache
+C:\Proiect18\Weather_app\Weather_app\obj\Debug\Weather_app.csproj.CoreCompileInputs.cache
+C:\Proiect18\Weather_app\Weather_app\obj\Debug\Weather_app.exe
+C:\Proiect18\Weather_app\Weather_app\obj\Debug\Weather_app.pdb
+C:\Proiect18\Weather_app\Weather_app\obj\Debug\Weather_app.Form1.resources
